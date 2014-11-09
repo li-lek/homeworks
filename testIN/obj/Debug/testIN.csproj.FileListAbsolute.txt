@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\bin\Debug\testIN.exe.config
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\bin\Debug\testIN.exe
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\bin\Debug\testIN.pdb
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\obj\Debug\testIN.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\obj\Debug\testIN.exe
+c:\users\user\documents\visual studio 2013\Projects\testIN\testIN\obj\Debug\testIN.pdb
